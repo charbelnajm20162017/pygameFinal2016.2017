@@ -1,0 +1,5 @@
+https://opengameart.org/content/a-platformer-in-the-forest
+music
+https://opengameart.org/content/loading-screen-loop
+https://opengameart.org/content/soft-mysterious-harp-loop
+font used: nevis
